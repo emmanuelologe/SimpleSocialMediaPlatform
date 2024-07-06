@@ -1,0 +1,2 @@
+Alice,Hello world!
+Bob,Check out this cool photo!,http://example.com/photo.jpg
